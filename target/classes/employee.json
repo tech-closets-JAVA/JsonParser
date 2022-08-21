@@ -1,0 +1,23 @@
+{
+  "firstname": "Mayank",
+  "lastname":"Dwivedi",
+  "address":[
+    {
+      "street": "Nishatganj",
+      "city": "Lucknow",
+      "state": "UP"
+    },
+    {
+      "street": "Jal Vayu Vihar",
+      "city": "Gurgaon",
+      "state": "Haryana"
+    },
+    {
+      "street": "Royal Nest",
+      "city": "Noida",
+      "state": "UP"
+    }
+
+  ],
+  "Age": 30
+}
